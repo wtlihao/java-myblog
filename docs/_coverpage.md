@@ -1,5 +1,3 @@
-![logo](_media/icon.svg)
-i
 # Lihao-Wangtao Blog <small>1.0.0</small>
 
 > 死磕Java技术。
