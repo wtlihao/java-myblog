@@ -8,4 +8,4 @@
 - ~~~~
 
 [GitHub](https://github.com/wtlihao/java-myblog)
-[Get Started](/#/)
+[Get Started](/)
