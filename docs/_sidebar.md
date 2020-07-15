@@ -1,7 +1,7 @@
 <!-- _navbar.md -->
 
-* [Java](java)
-  * [aqs](java/aqs)
+* Java
+  * aqs
     * [aqs](java/aqs/aqs.md)
     * [CountdownLatch](java/aqs/CountDownLatch.md)
     * [CyclicBarrier](java/aqs/CyclicBarrier.md)
@@ -14,14 +14,14 @@
   * [反射](java/reflect.md)
   * [树结构](java/tree.md)
     
-* [Dubbo](dubbo)
+* Dubbo
   * [Dubbo](dubbo/dubbo.md)
   * [服务导出](dubbo/service.md)
   * [服务调用](dubbo/invoke.md)
   * [集群容错](dubbo/cluster.md)
   * [SPI](dubbo/spi.md)
   
-* [netty](netty)
+* netty
   * [传统IO编程](netty/io.md)
   * [Netty介绍](netty/netty.md)
   * [Pipeline介绍](netty/pipeline.md)
@@ -30,7 +30,7 @@
   * [channelHandler介绍](netty/channelHandler.md)
   * [拆包与粘包](netty/chai.md)
   
-* [Redis](redis)
+* Redis
   * [传统IO编程](netty/io.md)
   * [Netty介绍](netty/netty.md)
   * [Pipeline介绍](netty/pipeline.md)
